@@ -71,6 +71,7 @@ class CharacterSelectState extends MusicBeatState
 		new CharacterInSelect(['ringi'], ["Ringi"]),
 		new CharacterInSelect(['bambom'], ["Bambom"]),
 		new CharacterInSelect(['bendu'], ["Bendu"]),
+		new CharacterInSelect(['tankman'], ["Tankman"]),
 		new CharacterInSelect(['sart-producer', 'sart-producer-night'], ["Sart Producer", "Sart Producer (Night)"])
 
 	];
